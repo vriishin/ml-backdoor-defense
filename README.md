@@ -23,3 +23,7 @@ For the published research paper and reproducible benchmarks, see the project ma
 ## Status
 
 Experimental code from a collaborative research project; not a validated production security tool. Dataset/checkpoint paths and library versions may need adjustment before experiments can be reproduced.
+
+## Experiment commands
+
+See [detailed command sequences](docs/experiment-commands.md) for the baseline ABL workflow and the ABL/ANP variations used in the project. These commands require the original experimental datasets and checkpoint configuration.
